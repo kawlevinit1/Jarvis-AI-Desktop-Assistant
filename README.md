@@ -1,6 +1,6 @@
 # Jarvis-AI-Desktop-Assistant
 
-Send email
+Send email<br>
 greetings
 wikipedia search
 open system installed apps
